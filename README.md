@@ -23,7 +23,7 @@ Additionally, I have been working on multiple projects involving:
 
 ---
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sunil003.sunil003) 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 ## 🛠 **Languages and Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
