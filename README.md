@@ -18,7 +18,7 @@ I am a data science student currently specializing in **Continual Learning**, wi
 Additionally, I am working on multiple projects involving:
 - **Large Language Models (LLMs)**  
 - **Optical Character Recognition (OCR)**  
-- **Deepfake Image Detection** using **VGG**, **ResNet**, **InceptionNet** and other own stom architectures.  
+- **Deepfake Image Detection** using **VGG**, **ResNet**, **InceptionNet** and other **own custom architectures**.  
 
 ---
 
