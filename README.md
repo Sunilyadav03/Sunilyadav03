@@ -20,7 +20,9 @@ Additionally, I am working on multiple projects involving:
 - **Optical Character Recognition (OCR)**  
 - **Deepfake Image Detection** using **VGG**, **ResNet**, **InceptionNet** and other **own custom architectures**.  
 
+
 ---
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sunil003.sunil003) 
 
 ## 🛠 **Languages and Tools**
 
@@ -98,7 +100,7 @@ I am always open to collaborating on exciting projects and discussing new ideas 
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sunil003.sunil003)  
+ 
 ⭐️ **Star this repo if you find it interesting!** ⭐️  
 
 ---
