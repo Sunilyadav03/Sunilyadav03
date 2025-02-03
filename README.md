@@ -15,7 +15,7 @@ I am a data science student currently specializing in **Continual Learning**, wi
 - **Replay-Based Techniques**  
   
 
-Additionally, I am working on multiple projects involving:
+Additionally, I have been working on multiple projects involving:
 - **Large Language Models (LLMs)**  
 - **Optical Character Recognition (OCR)**  
 - **Deepfake Image Detection** using **VGG**, **ResNet**, **InceptionNet** and other **own custom architectures**.  
