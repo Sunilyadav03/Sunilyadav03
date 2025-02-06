@@ -91,7 +91,7 @@ Additionally, I have been working on multiple projects involving:
 📧 **Email**: [sky787770@gmail.com](mailto:sky787770@gmail.com)   
 🔗 **LinkedIn**: [Let’s Connect!](https://www.linkedin.com/in/sunil-yadav-96a541289/)  
 🐙 **GitHub**: [@sunil003](https://github.com/Sunilyadav03))  
-
+🔗 **Medium**: [Sunil](https://medium.com/@sky787770)
 ---
 
 ## 🚀 **Let’s Build the Future of AI Together!**
