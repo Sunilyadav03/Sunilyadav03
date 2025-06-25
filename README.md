@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sunil Kumar Yadav (@sunil003)!
 
-🎓 **Final-Year MS Data Science Student** @ the **Defence Institute of Advanced Technology(DIAT), DRDO, Pune**.  
+🎓  Did **MS Data Science** From **Defence Institute of Advanced Technology(DIAT), DRDO, Pune**.  
 💻 **AI Researcher** | **Machine Learning Enthusiast** | **Data Science Enthusiast**  
 🚀 Passionate about solving complex problems using **Data Science**, **Machine Learning**, and **Deep Learning**.  
 
